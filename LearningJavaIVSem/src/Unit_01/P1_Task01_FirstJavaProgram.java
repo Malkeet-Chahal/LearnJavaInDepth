@@ -7,6 +7,12 @@ public class P1_Task01_FirstJavaProgram
 			System.out.println("HELLO WORLD");
 			System.out.println("\n");
 			System.out.println("This Is My First Program");
+			System.out.println("This Is My First Program");
+			System.out.println("This Is My First Program");
+			System.out.println("This Is My First Program");
+			System.out.println("This Is My First Program");
+			System.out.println("This Is My First Program");
+
 		}
 	
 
